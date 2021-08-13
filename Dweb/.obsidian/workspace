@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "4207e40ccf84fb35",
+    "type": "split",
+    "children": [
+      {
+        "id": "672e2ec47d32fa0d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Filecoin.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe0b765d9698476c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4836fca8823b1c8",
+        "type": "tabs",
+        "dimension": 25.316455696202535,
+        "children": [
+          {
+            "id": "bc51378816d4b49e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3e92fb27db354ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e6507d26e814361",
+        "type": "tabs",
+        "dimension": 74.68354430379746,
+        "children": [
+          {
+            "id": "8e88db52b078ed86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 679
+  },
+  "right": {
+    "id": "c92483b6cbf026af",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b587018a7b035b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c7448a7644610eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Filecoin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "672e2ec47d32fa0d",
+  "lastOpenFiles": [
+    "Filecoin.md",
+    "Startups.md",
+    "DWeb.md",
+    "Humane Technology.md",
+    "Untitled.md",
+    "Twitter Bluesky.md",
+    "Projects.md",
+    "Literatures.md",
+    "Protocol Labs.md",
+    "The Internet's Original Sin.md"
+  ]
+}
